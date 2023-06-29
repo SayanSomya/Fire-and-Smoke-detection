@@ -10,7 +10,7 @@ The main objectives of this project are:
 <ul>
 <li>To collect and annotate a large-scale dataset of fire and smoke images and videos from various sources and scenarios.</li>
 <li>To design and implement a deep neural network model that can accurately classify fire and smoke in images and videos.</li>
-<li>To evaluate the performance of the model on various metrics, such as Precision, Recall, Mean Average Precision, F1 score etc. and curves formed using these parameters</li>
+<li>To evaluate the performance of the model on various metrics, such as Precision, Recall, Mean Average Precision, F1 score, Confidence etc. and curves formed using these parameters</li>
 <li>To provide real-time fire and smoke detection from camera feeds or user uploads.</li>
 </ul>
 
