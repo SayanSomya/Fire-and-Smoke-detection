@@ -1,11 +1,8 @@
-train: ../train_data/images/train/  # train images (relative to 'path') 128 images
-val: ../train_data/images/val/  # val images (relative to 'path') 128 images
-test:  # test images (optional)
+# path: ../datasets/coco128 # dataset root dir
+train: ../train_data/images/train/ # train images (relative to 'path') 128 images
+val: ../train_data/images/val/ # val images (relative to 'path') 128 images
+
+nc: 3 # number of classes
 
 # Classes
-names:
-  0: Extinguisher
-
-
-# Download script/URL (optional)
-download: https://ultralytics.com/assets/coco128.zip
+names: ['FireMen','Fire','Smoke']
