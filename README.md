@@ -1,17 +1,17 @@
 # 🔥Fire-and-Smoke🌫️
 <h3>Fire and Smoke Detection ⛑️ using AI and ML</h3>
-This project aims to develop a model that can automatically detect fire and smoke in images and videos using artificial intelligence and machine learning techniques. The project is supervised by Professor <a href="https://www.iitg.ac.in/iitg_faculty_details?name=Manish-Bhatt&fac=T1kyemJyQ0pPN1I3blVENllFWjQ5dz09">Manish Bhatt</a> of IIT Guwahati.
+This project aims to develop a model that can automatically detect fire and smoke in images and videos using artificial intelligence and machine learning techniques. The project is supervised by Assistant Professor <a href="https://www.iitg.ac.in/iitg_faculty_details?name=Manish-Bhatt&fac=T1kyemJyQ0pPN1I3blVENllFWjQ5dz09">Manish Bhatt</a> of IIT Guwahati.
 
 <h4>Motivation</h4>
-Fire and smoke are common hazards that can cause severe damage to life and property. Early detection of fire and smoke can help in preventing or mitigating the consequences of such disasters. However, traditional fire and smoke detection methods, such as sensors and alarms, may not be effective in some scenarios, such as outdoor environments, large areas, or complex scenes. Therefore, there is a need for a system that can leverage the power of computer vision and deep learning to analyze visual data and identify fire and smoke events in real-time.
+Fire and smoke are common hazards that can cause severe damage to life and property. Early detection of fire and smoke can help in preventing or mitigating the consequences of such disasters. However, traditional fire and smoke detection methods, such as sensors and alarms, may not be effective in some scenarios, such as outdoor environments, large areas, or complex scenes. Therefore, there is a need for a system that can use the power of computer vision and deep learning to analyze visual data and identify fire and smoke events in real-time.
 
 <h4>Objectives</h4>
 The main objectives of this project are:
 <ul>
 <li>To collect and annotate a large-scale dataset of fire and smoke images and videos from various sources and scenarios.</li>
 <li>To design and implement a deep neural network model that can accurately classify fire and smoke in images and videos.</li>
-<li>To evaluate the performance of the model on various metrics, such as accuracy, precision, recall, F1-score, etc.</li>
-<li>To deploy the model on a web or mobile application that can provide real-time fire and smoke detection from camera feeds or user uploads.</li>
+<li>To evaluate the performance of the model on various metrics, such as Precision, Recall, Mean Average Precision, F1 score etc. and curves formed using these parameters</li>
+<li>To provide real-time fire and smoke detection from camera feeds or user uploads.</li>
 </ul>
 
 <h4>Methodology</h4>
