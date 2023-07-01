@@ -31,6 +31,28 @@ The methodology of this project consists of the following steps:
 
 <h4>Results</h4>
 link of the videos 
+<table>
+  <thead>
+    <td>
+      YOLO v5
+    </td>
+    <td>
+      YOLO v8
+    </td>
+  </thead>
+  <tr>
+    <td>
+      <video width="250px" height="100px" controls autoplay>
+        <source src="" type="video/.mp4">
+      </video>
+    </td>
+    <td>
+      <video width="250px" height="100px" controls autoplay>
+        <source src="" type="video/.avi">
+      </video>
+    </td>
+  </tr>
+</table>
 
 <h4>Challenges</h4>
 
@@ -57,5 +79,10 @@ The list of all the references used for this project is as follows:
 <h6>Google Collab</h6>
 <ul>
   <li>https://colab.research.google.com/drive/1D1uFjpw30_WDdpEfAjQSMmGJG9i1NrJO#scrollTo=kTvDNSILZoN9</li>
+  <li>https://colab.research.google.com/drive/1vE8Q7X86zDfqxH06n0Nlg7uhrTI0Fusc?authuser=1#scrollTo=nbl9gNVukXMJ</li>
+</ul>
+<h6>MATLAB code</h6>
+<ul>
+  <li>https://docs.google.com/document/d/1fnWQKwwOqb8XOkdg5-w5d4uHXZQMF-pOFun8s1F3OPQ/edit</li>
 </ul>
 
