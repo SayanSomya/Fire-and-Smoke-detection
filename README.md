@@ -78,7 +78,7 @@ The list of all the references used for this project is as follows:
 </ul>
 <h6>Google Collab</h6>
 <ul>
-  <li>https://colab.research.google.com/drive/1D1uFjpw30_WDdpEfAjQSMmGJG9i1NrJO#scrollTo=kTvDNSILZoN9</li>
+  <li>https://colab.research.google.com/drive/1D1uFjpw30_WDdpEfAjQSMmGJG9i1NrJO?usp=sharing</li>
   <li>https://colab.research.google.com/drive/1vE8Q7X86zDfqxH06n0Nlg7uhrTI0Fusc?authuser=1#scrollTo=nbl9gNVukXMJ</li>
 </ul>
 <h6>MATLAB code</h6>
