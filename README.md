@@ -42,14 +42,10 @@ link of the videos
   </thead>
   <tr>
     <td>
-      <video width="250px" height="100px" controls autoplay>
-        <source src="" type="video/.mp4">
-      </video>
+      <img src="">
     </td>
     <td>
-      <video width="250px" height="100px" controls autoplay>
-        <source src="" type="video/.avi">
-      </video>
+      <img src="">
     </td>
   </tr>
 </table>
